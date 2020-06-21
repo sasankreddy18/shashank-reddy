@@ -1,0 +1,5 @@
+
+r=input("enter radius of circle   ")
+pi=3.14
+cir=2*pi*r
+print("circumference of circle is" , cir)
