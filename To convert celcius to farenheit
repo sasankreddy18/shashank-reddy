@@ -1,0 +1,4 @@
+
+t=input("enter temp in celcius")
+f=(t*1.8)+32
+print("entered temp is equal to ", f ,"fahrenheit")
