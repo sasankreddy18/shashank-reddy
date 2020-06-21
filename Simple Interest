@@ -1,0 +1,5 @@
+p=input("enter the principle amount   ")
+t=input("enter time period   ")
+r=input("enter annual interest rate    ")
+Simpleinterest=(p*t*r)/100
+print("simple interst is" ,Simpleinterest)
