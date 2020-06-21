@@ -1,0 +1,7 @@
+
+c=input("enter a num")
+d=input("enter a num")
+t=c
+c=d
+d=t
+print("after swapping c,d are",c,d)
